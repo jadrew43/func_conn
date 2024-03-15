@@ -20,7 +20,7 @@ bs = 100
 ROIs = ['ACC','lDLPFC','rDLPFC','lAUD','rAUD','lFEF','rFEF','Vis','lIPS','LIPSP','rIPS','RTPJ']
 # index   0       1        2       3      4      5     6      7      8      9      10     11
 d = len(ROIs)
-experiment_dir = './analysis output'
+experiment_dir = './analysis_output'
 
 with open('labels.pkl','rb') as f:
     label_names = pickle.load(f)
