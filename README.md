@@ -9,7 +9,7 @@ The class for defining the different experiments, as well as various functions f
 
 Tools and functions for plotting the time-varying AR plots located in `plotting.py` which uses `labels.pkl`, containing names of different cortical ROI labels according to FreeSurfer. 
 
-----------------------------KEY FOR CONDITIONS-------------------------------- 
+----------------------------KEY FOR CONDITIONS--------------------------------   
 Comparable Experimental Conditions for Experiment 1 / Experiment 2:  
  - Maintain Space - LL / MS  
  - Switch Space - LR / SS  
