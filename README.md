@@ -1,6 +1,6 @@
 # func_conn 
 
-Output of functional connectivity measures described in <JNE Manuscript> located in `/analysis_output`.
+Output of functional connectivity measures located in `/analysis_output`.
 
 Use `exp1Stats.py`/`exp2Stats.py` to produce time-varying autoregressive (AR) plots, graphical representation of statistics, and histogram containing averaged AR coefficients across bootstraps and across regions of interest, for Experiment 1 (Original Study) / Experiment 2 (Validation Study). Significant connections require 95/100 (`thresh_bs=95`) bootstraps to meet or exceed the 90th percentile value (`thresh_90th=0.11` for experiments 1&2) of the experiment's averaged AR coefficients.
 
