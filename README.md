@@ -7,7 +7,7 @@ Use `exp1Stats.py`/`exp2Stats.py` to produce time-varying autoregressive (AR) pl
 The class for defining the different experiments, as well as various functions for creating the statistical graphs, are located in `graphStats_ROIs.py`.
 
 Comparable Experimental Conditions for Experiment 1 / Experiment 2:
-  Maintain Space - LL / MS
+ \n Maintain Space - LL / MS
   Switch Space - LR / SS
   Maintain Pitch - UU / MP
   Switch Pitch - UD / SP
